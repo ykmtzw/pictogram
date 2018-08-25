@@ -69,6 +69,10 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use Capistrano for deployment
-# gem 'capistrano-rails', group: :development
+# gem 'capistrano-rails', grFoup: :development
 # この行を追加する
 gem 'bootstrap-sass'
+
+gem 'jquery-rails'
+
+gem 'bcrypt'
